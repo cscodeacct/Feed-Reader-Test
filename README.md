@@ -1,6 +1,6 @@
 # Feed-Reader-Test
 
-## Table of Contents
+## TABLE OF CONTENTS
 
 * [OBJECTIVE](#objective)
 * [STEP TO RUN](#steptorun)
