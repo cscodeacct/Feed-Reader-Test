@@ -88,7 +88,7 @@ $(function() {
             loadFeed(0, load);
         });
         it('loadFeed function is called and its work is completed', function (load) {
-            const entryElement = $('.entry');
+            const entryElement = $('.feed .entry');
             expect(entryElement.length).toBeGreaterThan(0);
             load();
         });
