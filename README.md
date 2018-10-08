@@ -21,14 +21,14 @@ Open index.html to run the test [here](https://cscodeacct.github.io/Feed-Reader-
 * AllFeeds object has a URL that is defined
 * Name is defined and not empty
 
-### A test suite named menu is defined
+### A TEST SUITE NAMED MENU IS DEFINED
 * Menu element is hidden by default
 * Menu changes visibility when menu icon is clicked
 
-### A test suite named Initial Entries is defined
+### A TEST SUITE NAMED INITIAL ENTRIES IS DEFINED
 * loadFeed function is called and its work is completed
 
-### New Feed Selection is defined
+### NEW FEED SELECTION IS DEFINED
 * loadFeed function content changes when a new Feed is loaded
 
 ## CREDIT
