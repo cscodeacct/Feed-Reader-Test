@@ -100,18 +100,18 @@ $(function() {
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
          */
-        loadFeed(0, function () {
-            oldFeed = $('.entry-link').attr('href');
-                loadFeed(1, function () {
-                    newFeed = $('.entry-link').attr('href');
-                        done();
-    });
-});
-
         beforeEach(function (load) {
             oldFeed = $('.entry-link').attr('href');
             loadFeed(1, load);
         });
+
+         loadFeed(0, function () {
+            oldFeed = $('.entry-link').attr('href');
+                loadFeed(1, function () {
+                    newFeed = $('.entry-link').attr('href');
+                        
+    });
+});
 
         it('loadFeed function content changes when a new Feed is loaded', function () {
             newFeed = $('.entry-link').attr('href');
