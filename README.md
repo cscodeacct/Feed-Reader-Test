@@ -1,4 +1,4 @@
-# Feed-Reader-Test
+# FEED-READER-TEST
 
 ## TABLE OF CONTENTS
 
