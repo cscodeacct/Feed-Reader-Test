@@ -5,10 +5,10 @@
 * [OBJECTIVE](#objective)
 * [STEP TO RUN](#steptorun)
 * [TEST OUTPUT](#testoutput)
-* [Credit](#credit)
+* [CREDIT](#credit)
 
 
-## Objective
+## OBJECTIVE
 
 The objective of this project is to write a test script using Jasmine for a feedreader.
 
@@ -31,6 +31,6 @@ Open index.html to run the test [here](https://cscodeacct.github.io/Feed-Reader-
 ### New Feed Selection is defined
 * loadFeed function content changes when a new Feed is loaded
 
-## Credit
+## CREDIT
 
  Reference during this project:https://matthewcranford.com/feed-reader-walkthrough
